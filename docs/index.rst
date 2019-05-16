@@ -1,5 +1,5 @@
-Welcome to skeleton documentation!
-========================================
+Welcome to pytest-black-multipy documentation!
+==============================================
 
 .. toctree::
    :maxdepth: 1
@@ -7,7 +7,7 @@ Welcome to skeleton documentation!
    history
 
 
-.. automodule:: skeleton
+.. automodule:: pytest_black_multipy
     :members:
     :undoc-members:
     :show-inheritance:
