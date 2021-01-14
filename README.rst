@@ -15,3 +15,5 @@
 
 A wrapper around `pytest-black <https://pypi.org/project/pytest-black>`_
 to allow projects on older Python versions to use the ``--black`` parameter.
+
+This project is deprecated. Instead, use `pytest-enabler <https://pypi.org/project/pytest-enabler>`_ to enable black when present.
