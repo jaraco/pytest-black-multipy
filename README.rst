@@ -14,4 +14,4 @@
 
 
 A wrapper around `pytest-black <https://pypi.org/project/pytest-black>`_
-to allow projects on older Python versions to use the ``--black`` paremeter.
+to allow projects on older Python versions to use the ``--black`` parameter.
